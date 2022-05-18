@@ -1,6 +1,5 @@
 import { useContext } from "react";
 import TransactionsCtx from "../context/context";
-import dummyData from "../utils/dummyData";
 import shortenAddress from "../utils/shortenAddress";
 import useFetch from "../hooks/useFetch";
 
